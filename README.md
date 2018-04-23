@@ -5,7 +5,7 @@ In this activity, you'll build a compatibility-based "FriendFinder" application 
 
 Here is the link to my Heroku deployment
 
-https://git.heroku.com/friendfinder-44888.git
+https://friendfinder-44888.herokuapp.com/
 
 
 ### Instructions
